@@ -18,4 +18,4 @@ target/*
 *.pyc
 *.exe
 
-*.iml
+.idea/misc.xml
